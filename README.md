@@ -65,14 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tram-anh-nguyen&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tram-anh-nguyen&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### ✨ Quote
 > *"Learning never exhausts the mind."* – Leonardo da Vinci
 
