@@ -15,7 +15,7 @@
 ### 👩‍💻 About Me
 - 🎓 Final-year **Software Engineering** student  
 - 🌱 Currently focusing on **React FrontEnd, Database Systems**
-- 🔎 Interested in **Web Development, System Design and Clean Code**
+- 🔎 Interested in **Web Development, System Design**
 - 🚀 Goal: Become a **Professional Software Engineer**
 - 📚 Always learning new technologies and best practices
 
